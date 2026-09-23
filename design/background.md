@@ -1,0 +1,3 @@
+I enjoy the faction grind on Quarm, an EqEmu server. There are tools already that help with that, but in a very limited way. I can use those resources to view members of factions, and actions that modify that faction. The secondary faction implications are listed, but more complex questions are difficult to answer. For example, if you want to raise factions with two conflicting factions, what are your options? I want to create a plan for myself to raise multiple factions. 
+
+A tool that would first show me the available actions, allow me to select actions, remember them, and keep a total of the faction impacts would make it far easier to create a plan than current tools.
